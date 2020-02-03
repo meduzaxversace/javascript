@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ece5380f-6701-4091-a696-ed35e87f2695" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img copy/mon9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht2/opdracht2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht2/opdracht2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/monkeyshuffle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/monkeyshuffle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/opdracht3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht3/opdracht3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht4/javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht4/slideholder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opdracht5/monkeychooser.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/javascript.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580719002771</updated>
-      <workItem from="1580719003922" duration="9078000" />
+      <workItem from="1580719003922" duration="10323000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1580719027027</created>
@@ -107,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580719027027</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary=".">
+      <created>1580731131149</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580731131149</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
