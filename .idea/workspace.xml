@@ -1,11 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ece5380f-6701-4091-a696-ed35e87f2695" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img copy/mon9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht2/opdracht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht2/opdracht2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht3/monkeyshuffle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht3/monkeyshuffle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht3/opdracht3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht3/opdracht3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht4/slideholder.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/opdracht5/monkeychooser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/opdracht1/javascript.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1XI1sg8AR3ZbtwYi2Nn5LJaRHYe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opdracht3" />
+      <recent name="$PROJECT_DIR$/opdracht2" />
+      <recent name="$PROJECT_DIR$/opdracht1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ece5380f-6701-4091-a696-ed35e87f2695" name="Default Changelist" comment="" />
+      <created>1580719002771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580719002771</updated>
+      <workItem from="1580719003922" duration="9078000" />
+    </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1580719027027</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580719027027</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
 </project>

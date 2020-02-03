@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    var mycar = {
+        color: "Red",
+        brand: "Ferrari",
+        speed: 0,
+
+        givegas: function() {
+            this.speed += 5
+            console.log(this.speed);
+        },
+
+        Alarm: function() {
+            console.log("Boom!")
+
+            
+        }
+    }
+
+    console.log(mycar.color);
+    mycar.givegas();
+    mycar.givegas();
+    mycar.givegas();
+    mycar.givegas();
+    mycar.givegas();
+    mycar.givegas();
+    mycar.Alarm();
+
+
+
+
+</script>
+</body>
+</html>

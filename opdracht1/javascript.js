@@ -15,3 +15,5 @@ var mycar = {
 }
 
 console.log(mycar.color);
+
+document.getElementById("2").innerHTML = mycar.color
